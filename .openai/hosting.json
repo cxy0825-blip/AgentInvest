@@ -2,6 +2,6 @@
   "project_id": "appgprj_6a9b6cd2c81081918be6550e5166a568",
   "expected_url": "https://sherry-chu-portfolio.mossy-spoon-3677.chatgpt.site",
   "static": {
-    "directory": "sherry-portfolio"
+    "directory": "dist"
   }
 }
