@@ -1,0 +1,841 @@
+{
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "analysis_date": "2026-09-02",
+    "summary": {
+        "fundamental_score": 82,
+        "technical_score": 44,
+        "news_score": 58,
+        "final_rating": "HOLD",
+        "confidence": 76,
+        "risk_level": "Medium"
+    },
+    "market_data": {
+        "ticker": "JPM",
+        "company": "JPMorgan Chase & Co.",
+        "analysis_date": "2026-09-02",
+        "price": 354.635,
+        "market_cap": 942685880320,
+        "pe_ratio": 15.181293,
+        "revenue_growth": 0.304,
+        "profit_margin": 0.34921002,
+        "52_week_high": 366.5,
+        "52_week_low": 279.1,
+        "ma20": 357.92,
+        "ma50": 348.49,
+        "rsi": 35.94,
+        "macd": 1.74,
+        "macd_signal": 2.98,
+        "volume": 2361370,
+        "news": [
+            {
+                "title": "Southwest to launch first-ever airport lounges to broaden premium appeal",
+                "publisher": "Reuters",
+                "link": "https://finance.yahoo.com/small-business/articles/southwest-launch-first-ever-airport-152617589.html"
+            },
+            {
+                "title": "JPMorgan Chase (JPM) Raised Buybacks And Its Dividend, Is The Stock Fully Priced?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-raised-buybacks-150828566.html"
+            },
+            {
+                "title": "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+                "publisher": "24/7 Wall St.",
+                "link": "https://247wallst.com/investing/2026/09/02/nio-drops-4-on-j-p-morgan-downgrade-and-4-50-price-target-xpeng-and-li-auto-slip/"
+            },
+            {
+                "title": "AI Infrastructure Spending Is Set to Hit $1.4 Trillion by 2030. These Are the 3 Chip Stocks Positioned to Capture It.",
+                "publisher": "24/7 Wall St.",
+                "link": "https://247wallst.com/investing/2026/09/02/ai-infrastructure-spending-is-set-to-hit-1-4-trillion-by-2030-these-are-the-3-chip-stocks-positioned-to-capture-it/"
+            },
+            {
+                "title": "Southwest Airlines Jumps Into the Airport Lounge Competition",
+                "publisher": "The Wall Street Journal",
+                "link": "https://www.wsj.com/business/airlines/southwest-airlines-jumps-into-the-airport-lounge-competition-12126c96?siteid=yhoof2&yptr=yahoo"
+            }
+        ],
+        "price_history": [
+            {
+                "date": "2026-03-02",
+                "close": 294.7172546386719,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-03",
+                "close": 297.3914489746094,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-04",
+                "close": 296.52978515625,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-05",
+                "close": 290.74554443359375,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-06",
+                "close": 286.7144470214844,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-09",
+                "close": 287.1502685546875,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-10",
+                "close": 285.97161865234375,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-11",
+                "close": 284.77313232421875,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-12",
+                "close": 280.1874084472656,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-13",
+                "close": 280.7321472167969,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-16",
+                "close": 283.4261474609375,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-17",
+                "close": 284.1492004394531,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-18",
+                "close": 284.9910583496094,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-19",
+                "close": 285.2188415527344,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-20",
+                "close": 283.8223571777344,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-23",
+                "close": 287.14031982421875,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-24",
+                "close": 289.6065368652344,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-25",
+                "close": 292.59771728515625,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-26",
+                "close": 288.8736267089844,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-27",
+                "close": 280.13787841796875,
+                "ma20": 287.2438369750977,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-30",
+                "close": 281.0589904785156,
+                "ma20": 286.56092376708983,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-31",
+                "close": 291.3497314453125,
+                "ma20": 286.258837890625,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-01",
+                "close": 292.5580749511719,
+                "ma20": 286.0602523803711,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-02",
+                "close": 291.7855224609375,
+                "ma20": 286.1122512817383,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-06",
+                "close": 294.125,
+                "ma20": 286.48277893066404,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-07",
+                "close": 296.0662536621094,
+                "ma20": 286.92857818603517,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-08",
+                "close": 306.5888366699219,
+                "ma20": 287.9594390869141,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-09",
+                "close": 308.938232421875,
+                "ma20": 289.1676940917969,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-10",
+                "close": 308.4803161621094,
+                "ma20": 290.58233947753905,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-13",
+                "close": 312.2732238769531,
+                "ma20": 292.1593933105469,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-14",
+                "close": 309.7247009277344,
+                "ma20": 293.47432098388674,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-15",
+                "close": 304.5579833984375,
+                "ma20": 294.49476013183596,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-16",
+                "close": 308.5599670410156,
+                "ma20": 295.67320556640624,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-17",
+                "close": 308.8984375,
+                "ma20": 296.85718536376953,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-20",
+                "close": 315.5683898925781,
+                "ma20": 298.4444869995117,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-21",
+                "close": 311.5962829589844,
+                "ma20": 299.66728515625,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-22",
+                "close": 311.6161804199219,
+                "ma20": 300.76776733398435,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-23",
+                "close": 310.29217529296875,
+                "ma20": 301.652490234375,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-24",
+                "close": 306.8974609375,
+                "ma20": 302.5536819458008,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-27",
+                "close": 310.232421875,
+                "ma20": 304.0584091186523,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-28",
+                "close": 310.0532531738281,
+                "ma20": 305.508122253418,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-29",
+                "close": 307.86309814453125,
+                "ma20": 306.3337905883789,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-30",
+                "close": 311.82525634765625,
+                "ma20": 307.2971496582031,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-01",
+                "close": 311.06866455078125,
+                "ma20": 308.2613067626953,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-04",
+                "close": 306.270263671875,
+                "ma20": 308.8685699462891,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-05",
+                "close": 308.0124206542969,
+                "ma20": 309.46587829589845,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-06",
+                "close": 313.4877624511719,
+                "ma20": 309.8108245849609,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-07",
+                "close": 304.8964538574219,
+                "ma20": 309.6087356567383,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-08",
+                "close": 300.74517822265625,
+                "ma20": 309.22197875976565,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-11",
+                "close": 298.6545715332031,
+                "ma20": 308.5410461425781,
+                "ma50": 297.97843688964844
+            },
+            {
+                "date": "2026-05-12",
+                "close": 303.5126953125,
+                "ma20": 308.2304458618164,
+                "ma50": 298.154345703125
+            },
+            {
+                "date": "2026-05-13",
+                "close": 298.9034729003906,
+                "ma20": 307.9477203369141,
+                "ma50": 298.1845861816406
+            },
+            {
+                "date": "2026-05-14",
+                "close": 298.56500244140625,
+                "ma20": 307.4479721069336,
+                "ma50": 298.22529052734376
+            },
+            {
+                "date": "2026-05-15",
+                "close": 296.4743957519531,
+                "ma20": 306.82677001953124,
+                "ma50": 298.3398675537109
+            },
+            {
+                "date": "2026-05-18",
+                "close": 299.3813171386719,
+                "ma20": 306.0174163818359,
+                "ma50": 298.5932049560547
+            },
+            {
+                "date": "2026-05-19",
+                "close": 294.3738708496094,
+                "ma20": 305.1562957763672,
+                "ma50": 298.7376770019531
+            },
+            {
+                "date": "2026-05-20",
+                "close": 300.625732421875,
+                "ma20": 304.60677337646484,
+                "ma50": 299.03075927734375
+            },
+            {
+                "date": "2026-05-21",
+                "close": 301.6411437988281,
+                "ma20": 304.1742218017578,
+                "ma50": 299.3681195068359
+            },
+            {
+                "date": "2026-05-22",
+                "close": 305.0059814453125,
+                "ma20": 304.07964782714845,
+                "ma50": 299.8644909667969
+            },
+            {
+                "date": "2026-05-26",
+                "close": 305.3643493652344,
+                "ma20": 303.8362442016602,
+                "ma50": 300.3571350097656
+            },
+            {
+                "date": "2026-05-27",
+                "close": 297.93780517578125,
+                "ma20": 303.2304718017578,
+                "ma50": 300.6473681640625
+            },
+            {
+                "date": "2026-05-28",
+                "close": 295.3992614746094,
+                "ma20": 302.6072799682617,
+                "ma50": 300.87236938476565
+            },
+            {
+                "date": "2026-05-29",
+                "close": 297.9676818847656,
+                "ma20": 301.9144012451172,
+                "ma50": 301.13190185546875
+            },
+            {
+                "date": "2026-06-01",
+                "close": 295.2499084472656,
+                "ma20": 301.1234634399414,
+                "ma50": 301.33252319335935
+            },
+            {
+                "date": "2026-06-02",
+                "close": 299.6102600097656,
+                "ma20": 300.79046325683595,
+                "ma50": 301.64828125
+            },
+            {
+                "date": "2026-06-03",
+                "close": 299.50079345703125,
+                "ma20": 300.36488189697263,
+                "ma50": 301.89549072265623
+            },
+            {
+                "date": "2026-06-04",
+                "close": 309.4957580566406,
+                "ma20": 300.16528167724607,
+                "ma50": 302.29327514648435
+            },
+            {
+                "date": "2026-06-05",
+                "close": 310.9691162109375,
+                "ma20": 300.4689147949219,
+                "ma50": 302.660703125
+            },
+            {
+                "date": "2026-06-08",
+                "close": 309.7147521972656,
+                "ma20": 300.91739349365236,
+                "ma50": 303.0775256347656
+            },
+            {
+                "date": "2026-06-09",
+                "close": 311.2976379394531,
+                "ma20": 301.54954681396487,
+                "ma50": 303.70072082519533
+            },
+            {
+                "date": "2026-06-10",
+                "close": 307.75360107421875,
+                "ma20": 301.76159210205077,
+                "ma50": 304.2346130371094
+            },
+            {
+                "date": "2026-06-11",
+                "close": 312.0840759277344,
+                "ma20": 302.42062225341795,
+                "ma50": 304.6492999267578
+            },
+            {
+                "date": "2026-06-12",
+                "close": 319.28167724609375,
+                "ma20": 303.45645599365236,
+                "ma50": 305.18377197265625
+            },
+            {
+                "date": "2026-06-15",
+                "close": 317.96759033203125,
+                "ma20": 304.53111572265624,
+                "ma50": 305.7074133300781
+            },
+            {
+                "date": "2026-06-16",
+                "close": 329.6549377441406,
+                "ma20": 306.0447967529297,
+                "ma50": 306.41801208496094
+            },
+            {
+                "date": "2026-06-17",
+                "close": 331.9645080566406,
+                "ma20": 307.92432861328126,
+                "ma50": 307.13597717285154
+            },
+            {
+                "date": "2026-06-18",
+                "close": 323.761474609375,
+                "ma20": 309.08111572265625,
+                "ma50": 307.47942993164065
+            },
+            {
+                "date": "2026-06-22",
+                "close": 329.993408203125,
+                "ma20": 310.4987289428711,
+                "ma50": 307.9005334472656
+            },
+            {
+                "date": "2026-06-23",
+                "close": 332.6414794921875,
+                "ma20": 311.88050384521483,
+                "ma50": 308.3837567138672
+            },
+            {
+                "date": "2026-06-24",
+                "close": 331.95458984375,
+                "ma20": 313.21001586914065,
+                "ma50": 308.77738403320313
+            },
+            {
+                "date": "2026-06-25",
+                "close": 333.6170654296875,
+                "ma20": 314.9939788818359,
+                "ma50": 309.2552313232422
+            },
+            {
+                "date": "2026-06-26",
+                "close": 327.57427978515625,
+                "ma20": 316.6027297973633,
+                "ma50": 309.7155572509766
+            },
+            {
+                "date": "2026-06-29",
+                "close": 327.91278076171875,
+                "ma20": 318.09998474121096,
+                "ma50": 310.1026135253906
+            },
+            {
+                "date": "2026-06-30",
+                "close": 325.86199951171875,
+                "ma20": 319.6305892944336,
+                "ma50": 310.441884765625
+            },
+            {
+                "date": "2026-07-01",
+                "close": 332.5718078613281,
+                "ma20": 321.2786666870117,
+                "ma50": 310.781953125
+            },
+            {
+                "date": "2026-07-02",
+                "close": 332.9700012207031,
+                "ma20": 322.95212707519534,
+                "ma50": 311.20942749023436
+            },
+            {
+                "date": "2026-07-06",
+                "close": 337.7200012207031,
+                "ma20": 324.36333923339845,
+                "ma50": 311.73150390625
+            },
+            {
+                "date": "2026-07-07",
+                "close": 339.2200012207031,
+                "ma20": 325.77588348388673,
+                "ma50": 312.3100604248047
+            },
+            {
+                "date": "2026-07-08",
+                "close": 330.6199951171875,
+                "ma20": 326.82114562988284,
+                "ma50": 312.7845111083984
+            },
+            {
+                "date": "2026-07-09",
+                "close": 335.4700012207031,
+                "ma20": 328.02976379394534,
+                "ma50": 313.2892626953125
+            },
+            {
+                "date": "2026-07-10",
+                "close": 336.4700012207031,
+                "ma20": 329.46558380126953,
+                "ma50": 313.81759765625
+            },
+            {
+                "date": "2026-07-13",
+                "close": 334.5299987792969,
+                "ma20": 330.58787994384767,
+                "ma50": 314.35093566894534
+            },
+            {
+                "date": "2026-07-14",
+                "close": 342.8900146484375,
+                "ma20": 331.76829681396487,
+                "ma50": 314.97223083496095
+            },
+            {
+                "date": "2026-07-15",
+                "close": 346.9100036621094,
+                "ma20": 333.2154174804688,
+                "ma50": 315.6890576171875
+            },
+            {
+                "date": "2026-07-16",
+                "close": 343.1499938964844,
+                "ma20": 333.8901702880859,
+                "ma50": 316.42665222167966
+            },
+            {
+                "date": "2026-07-17",
+                "close": 341.1000061035156,
+                "ma20": 334.34694519042966,
+                "ma50": 317.0884039306641
+            },
+            {
+                "date": "2026-07-20",
+                "close": 338.8699951171875,
+                "ma20": 335.1023712158203,
+                "ma50": 317.5960485839844
+            },
+            {
+                "date": "2026-07-21",
+                "close": 345.2300109863281,
+                "ma20": 335.8642013549805,
+                "ma50": 318.4027197265625
+            },
+            {
+                "date": "2026-07-22",
+                "close": 348.2099914550781,
+                "ma20": 336.642626953125,
+                "ma50": 319.3520159912109
+            },
+            {
+                "date": "2026-07-23",
+                "close": 349.8999938964844,
+                "ma20": 337.5398971557617,
+                "ma50": 320.3769244384766
+            },
+            {
+                "date": "2026-07-24",
+                "close": 353.2099914550781,
+                "ma20": 338.51954345703126,
+                "ma50": 321.3708703613281
+            },
+            {
+                "date": "2026-07-27",
+                "close": 356.20001220703125,
+                "ma20": 339.950830078125,
+                "ma50": 322.5168011474609
+            },
+            {
+                "date": "2026-07-28",
+                "close": 357.30999755859375,
+                "ma20": 341.4206909179687,
+                "ma50": 323.6917010498047
+            },
+            {
+                "date": "2026-07-29",
+                "close": 344.7099914550781,
+                "ma20": 342.3630905151367,
+                "ma50": 324.6564129638672
+            },
+            {
+                "date": "2026-07-30",
+                "close": 350.8500061035156,
+                "ma20": 343.2770004272461,
+                "ma50": 325.68578674316404
+            },
+            {
+                "date": "2026-07-31",
+                "close": 351.7900085449219,
+                "ma20": 344.218000793457,
+                "ma50": 326.8341094970703
+            },
+            {
+                "date": "2026-08-03",
+                "close": 352.6400146484375,
+                "ma20": 344.96400146484376,
+                "ma50": 327.87439514160155
+            },
+            {
+                "date": "2026-08-04",
+                "close": 357.5199890136719,
+                "ma20": 345.8790008544922,
+                "ma50": 328.9919720458984
+            },
+            {
+                "date": "2026-08-05",
+                "close": 359.239990234375,
+                "ma20": 347.31000061035155,
+                "ma50": 330.0766522216797
+            },
+            {
+                "date": "2026-08-06",
+                "close": 356.29998779296875,
+                "ma20": 348.3514999389648,
+                "ma50": 331.0953649902344
+            },
+            {
+                "date": "2026-08-07",
+                "close": 357.5199890136719,
+                "ma20": 349.4039993286133,
+                "ma50": 332.28700866699216
+            },
+            {
+                "date": "2026-08-10",
+                "close": 359.7900085449219,
+                "ma20": 350.66699981689453,
+                "ma50": 333.57482360839845
+            },
+            {
+                "date": "2026-08-11",
+                "close": 362.0400085449219,
+                "ma20": 351.62449951171874,
+                "ma50": 334.85627014160156
+            },
+            {
+                "date": "2026-08-12",
+                "close": 365.17999267578125,
+                "ma20": 352.53799896240236,
+                "ma50": 336.2548718261719
+            },
+            {
+                "date": "2026-08-13",
+                "close": 363.1099853515625,
+                "ma20": 353.53599853515624,
+                "ma50": 337.5248663330078
+            },
+            {
+                "date": "2026-08-14",
+                "close": 362.8399963378906,
+                "ma20": 354.622998046875,
+                "ma50": 338.791650390625
+            },
+            {
+                "date": "2026-08-17",
+                "close": 360.9599914550781,
+                "ma20": 355.72749786376954,
+                "ma50": 339.82093505859376
+            },
+            {
+                "date": "2026-08-18",
+                "close": 363.25,
+                "ma20": 356.6284973144531,
+                "ma50": 340.866552734375
+            },
+            {
+                "date": "2026-08-19",
+                "close": 357.260009765625,
+                "ma20": 357.0809982299805,
+                "ma50": 341.8174578857422
+            },
+            {
+                "date": "2026-08-20",
+                "close": 351.54998779296875,
+                "ma20": 357.1634979248047,
+                "ma50": 342.6225048828125
+            },
+            {
+                "date": "2026-08-21",
+                "close": 351.5799865722656,
+                "ma20": 357.0819976806641,
+                "ma50": 343.49903259277346
+            },
+            {
+                "date": "2026-08-24",
+                "close": 356.3900146484375,
+                "ma20": 357.09149780273435,
+                "ma50": 344.3851513671875
+            },
+            {
+                "date": "2026-08-25",
+                "close": 356.69000244140625,
+                "ma20": 357.060498046875,
+                "ma50": 345.13331787109377
+            },
+            {
+                "date": "2026-08-26",
+                "close": 356.5,
+                "ma20": 357.6499984741211,
+                "ma50": 345.90396606445313
+            },
+            {
+                "date": "2026-08-27",
+                "close": 354.2200012207031,
+                "ma20": 357.8184982299805,
+                "ma50": 346.39526733398435
+            },
+            {
+                "date": "2026-08-28",
+                "close": 357.6199951171875,
+                "ma20": 358.10999755859376,
+                "ma50": 346.9083770751953
+            },
+            {
+                "date": "2026-08-31",
+                "close": 356.0199890136719,
+                "ma20": 358.2789962768555,
+                "ma50": 347.55354736328127
+            },
+            {
+                "date": "2026-09-01",
+                "close": 354.95001220703125,
+                "ma20": 358.15049743652344,
+                "ma50": 348.05267944335935
+            },
+            {
+                "date": "2026-09-02",
+                "close": 354.635009765625,
+                "ma20": 357.9202484130859,
+                "ma50": 348.49255004882815
+            }
+        ]
+    },
+    "agents": {
+        "fundamental_agent": "## JPMorgan Chase & Co. (JPM) Fundamental Analysis\n\n### 1. Valuation\n- P/E ratio: **15.18**, suggesting a moderately priced equity based on earnings.\n- The share price of **$354.64** is approximately **3.2% below its 52-week high**, indicating the stock is trading near the upper end of its recent range.\n- Without peer or historical valuation data, the P/E cannot be classified definitively as cheap or expensive.\n\n### 2. Revenue Growth\n- Revenue growth is **30.4%**, a strong rate that supports a positive fundamental outlook.\n- The supplied data does not specify the measurement period or whether this growth is recurring.\n\n### 3. Profitability\n- Profit margin is **34.9%**, indicating strong earnings conversion from revenue.\n- Combined with high revenue growth, this reflects a strong reported operating profile, although sustainability cannot be assessed from the available data.\n\n### 4. Company Strengths\n- Strong revenue growth.\n- High reported profit margin.\n- Large market capitalization of approximately **$943 billion**, indicating substantial scale.\n- Positive earnings valuation with a P/E of **15.18**.\n\n### 5. Fundamental Risks\n- The stock is close to its 52-week high, which may limit near-term valuation upside.\n- A P/E of 15.18 still implies meaningful expectations for continued earnings performance.\n- The durability of the 30.4% revenue growth and 34.9% profit margin is not established by the supplied data.\n- No information is provided on leverage, asset quality, capital ratios, dividends, or broader financial risks.\n\nFundamental Score: 82/100\nFundamental View: Bullish",
+        "technical_agent": "**JPM Technical Analysis**\n\n1. **Short-term price trend:** Mildly bearish. Price is below the MA20, indicating recent weakness, though it remains above the MA50.\n\n2. **MA20 and MA50:**  \n   - Price: 354.635  \n   - MA20: 357.92 — price is below it.  \n   - MA50: 348.49 — price is above it.  \n   This reflects short-term weakness within a relatively stronger intermediate position.\n\n3. **RSI:** RSI at 35.94 signals weak momentum and approaches oversold territory, but is not yet below 30.\n\n4. **MACD:** MACD at 1.74 is below its signal line at 2.98, producing a bearish signal and indicating weakening momentum.\n\n5. **Momentum:** Overall momentum is negative in the short term, based on the sub-MA20 price, weak RSI, and bearish MACD relationship.\n\n6. **Technical risks:** Further weakness could pressure the price toward the MA50. RSI may allow for a rebound from relatively weak levels, but the bearish MACD signal remains a downside risk. Volume cannot be evaluated directionally without a comparison benchmark.\n\nTechnical Score: 44/100  \nTechnical View: Bearish",
+        "news_agent": "## JPMorgan Chase (JPM) News Analysis\n\n1. **Overall news sentiment: Neutral to slightly positive**  \n   The only directly JPM-related headline reports increased buybacks and a higher dividend, which is positive for shareholders. However, the headline questions whether the stock is already fully priced, limiting the bullish implication. Most other headlines concern Southwest Airlines, Nio, or chip stocks and are not direct JPM developments.\n\n2. **Positive catalysts**\n   - Increased share buybacks.\n   - Higher dividend, indicating shareholder-return support.\n   - JPMorgan’s research activity is referenced in a downgrade of Nio, though this is not a fundamental catalyst for JPM.\n\n3. **Negative catalysts**\n   - Valuation concern: the stock may be “fully priced.”\n   - No supplied headline provides new information on JPMorgan’s earnings, growth, credit quality, or operating performance.\n\n4. **Important company developments**\n   - JPMorgan reportedly raised both its buyback authorization/activity and dividend.\n   - The supplied headlines do not provide the size, timing, or rationale of these actions.\n\n5. **Short-term investor implications**\n   - The buyback and dividend news may support investor sentiment and the stock price.\n   - Upside could be constrained if investors believe the positive shareholder-return actions are already reflected in the valuation.\n   - The evidence is limited because only one headline directly addresses JPMorgan.\n\n6. **News-related risks**\n   - The “fully priced” concern suggests potential limited near-term upside or valuation-related pullback.\n   - Headlines from unrelated companies should not be interpreted as JPMorgan-specific signals.\n   - The supplied information does not address broader banking-sector risks or JPMorgan’s financial outlook.\n\nNews Score: 58/100\nNews Sentiment: Neutral"
+    },
+    "decision_agent": "## 1. Evidence Comparison\n\n- **Fundamentals:** Strongest part of the case. JPM has a fundamental score of 82, supported by a reported 30.4% revenue growth rate, 34.9% profit margin, substantial scale, and a P/E of 15.18. However, the sustainability and measurement period of the growth and margin are unclear.\n- **Technicals:** Weak. The stock is below its MA20, RSI is weak at 35.94, and MACD is below its signal line. It remains above the MA50, so the intermediate trend is not decisively broken.\n- **News:** Neutral to slightly positive. Increased buybacks and a higher dividend support sentiment, but the stock may already be “fully priced,” and there is little company-specific operating news.\n\n## 2. Areas of Agreement\n\nThe analysts broadly agree that:\n\n- JPM is fundamentally strong and profitable.\n- Shareholder returns through buybacks and dividends are a positive.\n- The stock is trading near the upper end of its recent range, limiting obvious upside.\n- The near-term outlook is less compelling than the longer-term fundamental profile.\n- Important information is missing, particularly regarding the sustainability of growth, valuation comparisons, and broader financial risks.\n\n## 3. Areas of Disagreement\n\n- **Fundamentals vs. technicals:** The fundamental report is bullish, while the technical report is bearish. Strong reported business metrics are being offset by weakening short-term price momentum.\n- **Positive shareholder actions vs. valuation concern:** Buybacks and dividend increases are supportive, but the news report indicates that investors may already have priced in much of the positive news.\n- **Long-term strength vs. near-term timing:** Fundamentals suggest quality and earnings strength, while technicals suggest caution about entering aggressively at present levels.\n\n## 4. Bull Case\n\n- Strong reported revenue growth and profit margin indicate a favorable operating profile.\n- A P/E of 15.18 does not appear excessive in isolation, although no peer or historical comparison is available.\n- JPM’s large scale may support resilience and shareholder returns.\n- Increased buybacks and a higher dividend provide direct support to shareholders.\n- The price remains above the MA50, meaning the intermediate trend has not clearly turned negative.\n- RSI near 36 could allow for a technical rebound if selling pressure eases.\n\n## 5. Bear Case\n\n- The stock is close to its 52-week high, and the news report specifically raises the possibility that it is fully priced.\n- Price is below the MA20, RSI indicates weak momentum, and MACD is bearish.\n- Further weakness could push the stock toward the MA50.\n- The reported 30.4% revenue growth and 34.9% margin may not be sustainable, and the available data does not establish their time period or quality.\n- The P/E still embeds expectations for continued earnings performance.\n- There is insufficient information on leverage, asset quality, capital ratios, dividends in detail, and broader financial risks.\n- The positive news evidence is narrow, with only one directly JPM-related headline.\n\n## 6. Most Important Risks\n\n1. **Near-term price and momentum risk:** Technical indicators point to possible additional weakness.\n2. **Valuation risk:** Trading near the 52-week high and possible “fully priced” conditions could constrain upside.\n3. **Earnings sustainability risk:** The durability of the reported growth and margin is unknown.\n4. **Information risk:** There is no supplied peer valuation, historical benchmark, or detailed banking-sector financial data.\n5. **Conflicting signals:** Strong fundamentals may not translate into near-term returns if technical weakness persists.\n\n## 7. Overall Assessment\n\nJPM presents a strong fundamental profile, but the entry timing is not clearly favorable. The technical picture is bearish, the stock is near its recent high, and the news is only modestly supportive. This combination does not justify a SELL given the fundamental strength, but it also does not provide sufficient near-term evidence for a BUY.\n\nThe appropriate research stance is **HOLD**, with medium risk and moderate-to-high confidence in that rating. The principal reason for avoiding a more bullish rating is the conflict between strong fundamentals and weak short-term momentum, compounded by incomplete valuation and banking-risk information.\n\nFinal Rating: HOLD\nConfidence: 76/100\nRisk Level: Medium",
+    "disclaimer": "This report is generated for educational and research purposes only and is not financial advice."
+}

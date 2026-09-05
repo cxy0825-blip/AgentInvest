@@ -1,0 +1,50 @@
+{
+    "ticker": "AAPL",
+    "market_data": {
+        "ticker": "AAPL",
+        "company": "Apple Inc.",
+        "analysis_date": "2026-09-02",
+        "price": 325.13,
+        "market_cap": 4745005629440,
+        "pe_ratio": 36.36801,
+        "revenue_growth": 0.164,
+        "profit_margin": 0.27618998,
+        "52_week_high": 344.57,
+        "52_week_low": 225.95,
+        "ma20": 311.28,
+        "ma50": 312.76,
+        "rsi": 75.37,
+        "macd": 1.27,
+        "macd_signal": -0.24,
+        "volume": 53119500,
+        "news": [
+            {
+                "title": "Are you willing to pay $2,000 for an iPhone? These customers may.",
+                "publisher": "Yahoo Finance Video",
+                "link": "https://finance.yahoo.com/video/willing-pay-2-000-iphone-203311978.html"
+            },
+            {
+                "title": "John Ternus's first day as Apple CEO, JOLTS data, Dell earnings: What to Watch",
+                "publisher": "Yahoo Finance Video",
+                "link": "https://finance.yahoo.com/video/john-ternuss-first-day-apple-120000777.html"
+            },
+            {
+                "title": "What Tim Cook told employees on his last day at Apple",
+                "publisher": "Yahoo Finance",
+                "link": "https://finance.yahoo.com/technology/article/what-tim-cook-told-employees-on-his-last-day-at-apple-171506698.html"
+            },
+            {
+                "title": "Dow Jones Futures: Dell, Credo, Palo Alto Are Earnings Movers Late; Oil Prices Keep Rising",
+                "publisher": "Investor's Business Daily",
+                "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo"
+            },
+            {
+                "title": "Apple to Give New CEO $3 Million Salary",
+                "publisher": "The Wall Street Journal",
+                "link": "https://www.wsj.com/tech/apple-to-give-new-ceo-3-million-salary-c968ca86?siteid=yhoof2&yptr=yahoo"
+            }
+        ]
+    },
+    "fundamental_agent": "## Apple Inc. (AAPL) — Fundamental Analysis\n\n### 1. Valuation\nApple trades at a **P/E ratio of 36.4x**, indicating a premium valuation. The share price of **$325.13** is approximately **5.7% below its 52-week high of $344.57** and substantially above its 52-week low of $225.95. This suggests strong market expectations are already reflected in the stock price, leaving less room for execution disappointments.\n\n### 2. Revenue Growth\nRevenue growth is **16.4%**, a strong result that supports the premium valuation. Continued growth at this level would be favorable, although the provided data does not indicate whether this rate is sustainable.\n\n### 3. Profitability\nApple reports a **27.6% profit margin**, demonstrating strong profitability. Combined with solid revenue growth, this represents a favorable fundamental profile.\n\n### 4. Company Strengths\n- Strong revenue growth of **16.4%**\n- High profit margin of **27.6%**\n- Large market capitalization of approximately **$4.75 trillion**\n- Positive market momentum, with the share price near its 52-week high\n- Growth and profitability provide support for the elevated valuation\n\n### 5. Fundamental Risks\n- **Valuation risk:** A **36.4x P/E** leaves the stock vulnerable if growth or profitability weakens.\n- **Expectation risk:** The share price is near its 52-week high, indicating that strong performance may already be priced in.\n- **Growth sustainability risk:** The available data does not establish whether the 16.4% revenue growth rate can persist.\n- **Limited visibility:** No additional information is provided on debt, cash flow, segment performance, or competitive conditions.\n\nFundamental Score: 78/100\n\nFundamental View:\nBullish",
+    "technical_agent": "## Technical Research Report — AAPL\n\n1. **Short-term price trend:** Bullish. The price of 325.13 is above both the MA20 at 311.28 and MA50 at 312.76, indicating positive near-term positioning. It is also relatively close to the 52-week high of 344.57.\n\n2. **MA20 and MA50 relationship:** Mixed to slightly cautious. The MA20 is 1.48 points below the MA50, so there is no confirmed short-term moving-average bullish crossover. However, price remains above both averages.\n\n3. **RSI:** RSI at 75.37 indicates overbought conditions. This reflects strong buying pressure but raises the risk of consolidation or a pullback.\n\n4. **MACD:** Bullish. MACD at 1.27 is above its signal line at -0.24, producing a positive spread and supporting upward momentum.\n\n5. **Momentum:** Strong but stretched. Price strength and the bullish MACD support continued momentum, while the elevated RSI suggests momentum may be vulnerable to cooling.\n\n6. **Technical risks:** Primary risks are overbought RSI conditions, the MA20 remaining below the MA50, and potential resistance or profit-taking as price approaches the 52-week high. Volume cannot be assessed directionally without a comparative volume benchmark.\n\nTechnical Score: 72/100\n\nTechnical View:\nBullish"
+}

@@ -1,0 +1,841 @@
+{
+    "ticker": "NFLX",
+    "company": "Netflix, Inc.",
+    "analysis_date": "2026-09-02",
+    "summary": {
+        "fundamental_score": 78,
+        "technical_score": 78,
+        "news_score": 58,
+        "final_rating": "HOLD",
+        "confidence": 70,
+        "risk_level": "Medium"
+    },
+    "market_data": {
+        "ticker": "NFLX",
+        "company": "Netflix, Inc.",
+        "analysis_date": "2026-09-02",
+        "price": 82.21,
+        "market_cap": 342317465600,
+        "pe_ratio": 25.8522,
+        "revenue_growth": 0.134,
+        "profit_margin": 0.28219,
+        "52_week_high": 126.71,
+        "52_week_low": 65.08,
+        "ma20": 78.63,
+        "ma50": 75.07,
+        "rsi": 62.2,
+        "macd": 1.92,
+        "macd_signal": 1.68,
+        "volume": 11159185,
+        "news": [
+            {
+                "title": "Where Will Netflix Stock Be in 3 Years?",
+                "publisher": "Motley Fool",
+                "link": "https://www.fool.com/investing/2026/09/02/where-will-netflix-stock-be-in-3-years/"
+            },
+            {
+                "title": "Netflix, MercadoLibre, and Tesla Are All Underperforming the S&P 500. Here's the 1 Stock I'd Buy in September.",
+                "publisher": "Motley Fool",
+                "link": "https://www.fool.com/investing/2026/09/02/netflix-mercadolibre-and-tesla-are-all-underperfor/"
+            },
+            {
+                "title": "Netflix (NFLX) Unveils New Partnership, Is It Still Below Fair Value?",
+                "publisher": "Simply Wall St.",
+                "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-unveils-partnership-still-002022138.html"
+            },
+            {
+                "title": "GTA VI Gameplay Peek Tops Netflix’s Viewership Charts — But TTWO Stock Fails To Gather Steam",
+                "publisher": "Stocktwits",
+                "link": "https://stocktwits.com/news-articles/markets/equity/gta-vi-gameplay-peek-tops-netflix-s-viewership-charts/cZsov4YRJMr"
+            },
+            {
+                "title": "Does This News Make Netflix Stock a Buy?",
+                "publisher": "Motley Fool",
+                "link": "https://www.fool.com/investing/2026/09/01/does-this-news-make-netflix-stock-a-buy/"
+            }
+        ],
+        "price_history": [
+            {
+                "date": "2026-03-02",
+                "close": 97.08999633789062,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-03",
+                "close": 97.69999694824219,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-04",
+                "close": 98.66000366210938,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-05",
+                "close": 99.16999816894531,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-06",
+                "close": 99.0199966430664,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-09",
+                "close": 98.31999969482422,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-10",
+                "close": 96.94000244140625,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-11",
+                "close": 94.88999938964844,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-12",
+                "close": 94.30999755859375,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-13",
+                "close": 95.30999755859375,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-16",
+                "close": 95.19999694824219,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-17",
+                "close": 94.36000061035156,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-18",
+                "close": 94.69999694824219,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-19",
+                "close": 91.73999786376953,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-20",
+                "close": 91.81999969482422,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-23",
+                "close": 93.37999725341797,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-24",
+                "close": 90.91999816894531,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-25",
+                "close": 92.27999877929688,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-26",
+                "close": 93.31999969482422,
+                "ma20": null,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-27",
+                "close": 93.43000030517578,
+                "ma20": 95.12799873352051,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-30",
+                "close": 92.97000122070312,
+                "ma20": 94.92199897766113,
+                "ma50": null
+            },
+            {
+                "date": "2026-03-31",
+                "close": 96.1500015258789,
+                "ma20": 94.84449920654296,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-01",
+                "close": 95.55000305175781,
+                "ma20": 94.68899917602539,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-02",
+                "close": 98.66000366210938,
+                "ma20": 94.66349945068359,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-06",
+                "close": 98.93000030517578,
+                "ma20": 94.65899963378907,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-07",
+                "close": 98.81999969482422,
+                "ma20": 94.68399963378906,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-08",
+                "close": 99.38999938964844,
+                "ma20": 94.80649948120117,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-09",
+                "close": 102.05000305175781,
+                "ma20": 95.16449966430665,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-10",
+                "close": 103.01000213623047,
+                "ma20": 95.59949989318848,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-13",
+                "close": 103.16000366210938,
+                "ma20": 95.99200019836425,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-14",
+                "close": 106.27999877929688,
+                "ma20": 96.54600028991699,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-15",
+                "close": 107.70999908447266,
+                "ma20": 97.21350021362305,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-16",
+                "close": 107.79000091552734,
+                "ma20": 97.86800041198731,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-17",
+                "close": 97.30999755859375,
+                "ma20": 98.14650039672851,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-20",
+                "close": 94.83000183105469,
+                "ma20": 98.29700050354003,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-21",
+                "close": 92.58000183105469,
+                "ma20": 98.25700073242187,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-22",
+                "close": 93.23999786376953,
+                "ma20": 98.37300071716308,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-23",
+                "close": 92.81999969482422,
+                "ma20": 98.40000076293946,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-24",
+                "close": 92.44000244140625,
+                "ma20": 98.35600090026855,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-27",
+                "close": 91.37000274658203,
+                "ma20": 98.25300102233886,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-28",
+                "close": 92.2699966430664,
+                "ma20": 98.21800079345704,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-29",
+                "close": 92.12000274658203,
+                "ma20": 98.0165008544922,
+                "ma50": null
+            },
+            {
+                "date": "2026-04-30",
+                "close": 93.61000061035156,
+                "ma20": 97.91950073242188,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-01",
+                "close": 92.05999755859375,
+                "ma20": 97.5895004272461,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-04",
+                "close": 91.0199966430664,
+                "ma20": 97.19400024414062,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-05",
+                "close": 87.88999938964844,
+                "ma20": 96.64750022888184,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-06",
+                "close": 88.2699966430664,
+                "ma20": 96.09150009155273,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-07",
+                "close": 88.25,
+                "ma20": 95.40149993896485,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-08",
+                "close": 87.48999786376953,
+                "ma20": 94.6254997253418,
+                "ma50": null
+            },
+            {
+                "date": "2026-05-11",
+                "close": 85.44999694824219,
+                "ma20": 93.73999938964843,
+                "ma50": 95.32099960327149
+            },
+            {
+                "date": "2026-05-12",
+                "close": 87.66000366210938,
+                "ma20": 92.80899963378906,
+                "ma50": 95.13239974975586
+            },
+            {
+                "date": "2026-05-13",
+                "close": 87.55999755859375,
+                "ma20": 91.80149955749512,
+                "ma50": 94.92959976196289
+            },
+            {
+                "date": "2026-05-14",
+                "close": 86.94000244140625,
+                "ma20": 90.75899963378906,
+                "ma50": 94.69519973754883
+            },
+            {
+                "date": "2026-05-15",
+                "close": 87.0199966430664,
+                "ma20": 90.2444995880127,
+                "ma50": 94.45219970703126
+            },
+            {
+                "date": "2026-05-18",
+                "close": 89.6500015258789,
+                "ma20": 89.98549957275391,
+                "ma50": 94.2647998046875
+            },
+            {
+                "date": "2026-05-19",
+                "close": 89.33000183105469,
+                "ma20": 89.8229995727539,
+                "ma50": 94.0849998474121
+            },
+            {
+                "date": "2026-05-20",
+                "close": 88.08999633789062,
+                "ma20": 89.56549949645996,
+                "ma50": 93.9079997253418
+            },
+            {
+                "date": "2026-05-21",
+                "close": 89.30000305175781,
+                "ma20": 89.38949966430664,
+                "ma50": 93.79619979858398
+            },
+            {
+                "date": "2026-05-22",
+                "close": 88.5999984741211,
+                "ma20": 89.19749946594239,
+                "ma50": 93.68199981689453
+            },
+            {
+                "date": "2026-05-26",
+                "close": 87.68000030517578,
+                "ma20": 89.01299934387207,
+                "ma50": 93.52939987182617
+            },
+            {
+                "date": "2026-05-27",
+                "close": 87.3499984741211,
+                "ma20": 88.76699943542481,
+                "ma50": 93.37239990234374
+            },
+            {
+                "date": "2026-05-28",
+                "close": 86.36000061035156,
+                "ma20": 88.47899932861328,
+                "ma50": 93.21239990234375
+            },
+            {
+                "date": "2026-05-29",
+                "close": 86.0199966430664,
+                "ma20": 88.09949913024903,
+                "ma50": 93.03879989624023
+            },
+            {
+                "date": "2026-06-01",
+                "close": 85.8499984741211,
+                "ma20": 87.78899917602538,
+                "ma50": 92.92099990844727
+            },
+            {
+                "date": "2026-06-02",
+                "close": 83.33000183105469,
+                "ma20": 87.40449943542481,
+                "ma50": 92.75119995117187
+            },
+            {
+                "date": "2026-06-03",
+                "close": 81.5199966430664,
+                "ma20": 87.0859992980957,
+                "ma50": 92.51399993896484
+            },
+            {
+                "date": "2026-06-04",
+                "close": 81.55999755859375,
+                "ma20": 86.75049934387206,
+                "ma50": 92.32679992675781
+            },
+            {
+                "date": "2026-06-05",
+                "close": 82.18000030517578,
+                "ma20": 86.44699935913086,
+                "ma50": 92.12479995727539
+            },
+            {
+                "date": "2026-06-08",
+                "close": 82.63999938964844,
+                "ma20": 86.20449943542481,
+                "ma50": 91.91119995117188
+            },
+            {
+                "date": "2026-06-09",
+                "close": 81.41000366210938,
+                "ma20": 86.00249977111817,
+                "ma50": 91.67080001831054
+            },
+            {
+                "date": "2026-06-10",
+                "close": 82.0,
+                "ma20": 85.7194995880127,
+                "ma50": 91.45139999389649
+            },
+            {
+                "date": "2026-06-11",
+                "close": 81.2699966430664,
+                "ma20": 85.40499954223633,
+                "ma50": 91.15379989624023
+            },
+            {
+                "date": "2026-06-12",
+                "close": 80.33999633789062,
+                "ma20": 85.07499923706055,
+                "ma50": 90.84959976196289
+            },
+            {
+                "date": "2026-06-15",
+                "close": 81.66999816894531,
+                "ma20": 84.8074993133545,
+                "ma50": 90.50979965209962
+            },
+            {
+                "date": "2026-06-16",
+                "close": 78.72000122070312,
+                "ma20": 84.2609992980957,
+                "ma50": 90.10559967041016
+            },
+            {
+                "date": "2026-06-17",
+                "close": 76.95999908447266,
+                "ma20": 83.6424991607666,
+                "ma50": 89.66839965820313
+            },
+            {
+                "date": "2026-06-18",
+                "close": 77.37999725341797,
+                "ma20": 83.10699920654297,
+                "ma50": 89.22819961547852
+            },
+            {
+                "date": "2026-06-22",
+                "close": 72.87999725341797,
+                "ma20": 82.28599891662597,
+                "ma50": 88.64479949951172
+            },
+            {
+                "date": "2026-06-23",
+                "close": 72.81999969482422,
+                "ma20": 81.49699897766114,
+                "ma50": 88.0409994506836
+            },
+            {
+                "date": "2026-06-24",
+                "close": 71.83999633789062,
+                "ma20": 80.70499877929687,
+                "ma50": 87.41459930419921
+            },
+            {
+                "date": "2026-06-25",
+                "close": 70.9000015258789,
+                "ma20": 79.88249893188477,
+                "ma50": 86.70699935913086
+            },
+            {
+                "date": "2026-06-26",
+                "close": 73.80999755859375,
+                "ma20": 79.25499877929687,
+                "ma50": 86.02899932861328
+            },
+            {
+                "date": "2026-06-29",
+                "close": 73.77999877929688,
+                "ma20": 78.6429988861084,
+                "ma50": 85.34879928588867
+            },
+            {
+                "date": "2026-06-30",
+                "close": 71.4000015258789,
+                "ma20": 77.92049903869629,
+                "ma50": 84.83059936523438
+            },
+            {
+                "date": "2026-07-01",
+                "close": 74.19000244140625,
+                "ma20": 77.46349906921387,
+                "ma50": 84.41779937744141
+            },
+            {
+                "date": "2026-07-02",
+                "close": 77.6500015258789,
+                "ma20": 77.26999931335449,
+                "ma50": 84.11919937133788
+            },
+            {
+                "date": "2026-07-06",
+                "close": 76.0199966430664,
+                "ma20": 76.99299926757813,
+                "ma50": 83.77479934692383
+            },
+            {
+                "date": "2026-07-07",
+                "close": 76.18000030517578,
+                "ma20": 76.69299926757813,
+                "ma50": 83.44199935913086
+            },
+            {
+                "date": "2026-07-08",
+                "close": 75.58999633789062,
+                "ma20": 76.34049911499024,
+                "ma50": 83.10499923706055
+            },
+            {
+                "date": "2026-07-09",
+                "close": 75.47000122070312,
+                "ma20": 76.04349899291992,
+                "ma50": 82.78699920654297
+            },
+            {
+                "date": "2026-07-10",
+                "close": 73.37000274658203,
+                "ma20": 75.61199913024902,
+                "ma50": 82.40899932861328
+            },
+            {
+                "date": "2026-07-13",
+                "close": 73.83000183105469,
+                "ma20": 75.23999938964843,
+                "ma50": 82.04319931030274
+            },
+            {
+                "date": "2026-07-14",
+                "close": 73.52999877929688,
+                "ma20": 74.89949951171874,
+                "ma50": 81.64159927368163
+            },
+            {
+                "date": "2026-07-15",
+                "close": 73.68000030517578,
+                "ma20": 74.49999961853027,
+                "ma50": 81.27399932861329
+            },
+            {
+                "date": "2026-07-16",
+                "close": 74.3499984741211,
+                "ma20": 74.28149948120117,
+                "ma50": 80.94059936523438
+            },
+            {
+                "date": "2026-07-17",
+                "close": 68.94999694824219,
+                "ma20": 73.88099937438965,
+                "ma50": 80.56179931640625
+            },
+            {
+                "date": "2026-07-20",
+                "close": 67.5999984741211,
+                "ma20": 73.39199943542481,
+                "ma50": 80.14839935302734
+            },
+            {
+                "date": "2026-07-21",
+                "close": 68.66999816894531,
+                "ma20": 73.18149948120117,
+                "ma50": 79.75679931640624
+            },
+            {
+                "date": "2026-07-22",
+                "close": 68.52999877929688,
+                "ma20": 72.96699943542481,
+                "ma50": 79.37759933471679
+            },
+            {
+                "date": "2026-07-23",
+                "close": 68.88999938964844,
+                "ma20": 72.81949958801269,
+                "ma50": 79.04639938354492
+            },
+            {
+                "date": "2026-07-24",
+                "close": 70.08999633789062,
+                "ma20": 72.77899932861328,
+                "ma50": 78.69499923706054
+            },
+            {
+                "date": "2026-07-27",
+                "close": 70.4000015258789,
+                "ma20": 72.60849952697754,
+                "ma50": 78.35179931640624
+            },
+            {
+                "date": "2026-07-28",
+                "close": 72.38999938964844,
+                "ma20": 72.53899955749512,
+                "ma50": 78.0607992553711
+            },
+            {
+                "date": "2026-07-29",
+                "close": 73.62999725341797,
+                "ma20": 72.65049934387207,
+                "ma50": 77.79299926757812
+            },
+            {
+                "date": "2026-07-30",
+                "close": 73.16999816894531,
+                "ma20": 72.59949913024903,
+                "ma50": 77.46339920043945
+            },
+            {
+                "date": "2026-07-31",
+                "close": 71.70999908447266,
+                "ma20": 72.30249900817871,
+                "ma50": 77.11099914550782
+            },
+            {
+                "date": "2026-08-03",
+                "close": 73.33000183105469,
+                "ma20": 72.16799926757812,
+                "ma50": 76.81579925537109
+            },
+            {
+                "date": "2026-08-04",
+                "close": 73.56999969482422,
+                "ma20": 72.03749923706054,
+                "ma50": 76.50119918823242
+            },
+            {
+                "date": "2026-08-05",
+                "close": 74.19999694824219,
+                "ma20": 71.96799926757812,
+                "ma50": 76.21319915771484
+            },
+            {
+                "date": "2026-08-06",
+                "close": 73.69000244140625,
+                "ma20": 71.87899932861328,
+                "ma50": 75.93339920043945
+            },
+            {
+                "date": "2026-08-07",
+                "close": 74.13999938964844,
+                "ma20": 71.9174991607666,
+                "ma50": 75.66919921875
+            },
+            {
+                "date": "2026-08-10",
+                "close": 76.29000091552734,
+                "ma20": 72.04049911499024,
+                "ma50": 75.46779922485352
+            },
+            {
+                "date": "2026-08-11",
+                "close": 74.79000091552734,
+                "ma20": 72.10349922180175,
+                "ma50": 75.24319931030273
+            },
+            {
+                "date": "2026-08-12",
+                "close": 74.20999908447266,
+                "ma20": 72.1299991607666,
+                "ma50": 75.01039932250977
+            },
+            {
+                "date": "2026-08-13",
+                "close": 78.23999786376953,
+                "ma20": 72.32449913024902,
+                "ma50": 74.90859924316406
+            },
+            {
+                "date": "2026-08-14",
+                "close": 78.16000366210938,
+                "ma20": 72.78499946594238,
+                "ma50": 74.84139938354492
+            },
+            {
+                "date": "2026-08-17",
+                "close": 76.0199966430664,
+                "ma20": 73.20599937438965,
+                "ma50": 74.73059936523437
+            },
+            {
+                "date": "2026-08-18",
+                "close": 77.7699966430664,
+                "ma20": 73.6609992980957,
+                "ma50": 74.64239929199219
+            },
+            {
+                "date": "2026-08-19",
+                "close": 80.22000122070312,
+                "ma20": 74.24549942016601,
+                "ma50": 74.59399932861328
+            },
+            {
+                "date": "2026-08-20",
+                "close": 80.13999938964844,
+                "ma20": 74.80799942016601,
+                "ma50": 74.56859924316406
+            },
+            {
+                "date": "2026-08-21",
+                "close": 79.58999633789062,
+                "ma20": 75.28299942016602,
+                "ma50": 74.52039916992187
+            },
+            {
+                "date": "2026-08-24",
+                "close": 80.01000213623047,
+                "ma20": 75.7634994506836,
+                "ma50": 74.49519927978515
+            },
+            {
+                "date": "2026-08-25",
+                "close": 82.2300033569336,
+                "ma20": 76.25549964904785,
+                "ma50": 74.53299942016602
+            },
+            {
+                "date": "2026-08-26",
+                "close": 81.45999908447266,
+                "ma20": 76.64699974060059,
+                "ma50": 74.52879943847657
+            },
+            {
+                "date": "2026-08-27",
+                "close": 79.83999633789062,
+                "ma20": 76.98049964904786,
+                "ma50": 74.55119934082032
+            },
+            {
+                "date": "2026-08-28",
+                "close": 81.72000122070312,
+                "ma20": 77.48099975585937,
+                "ma50": 74.64639938354492
+            },
+            {
+                "date": "2026-08-31",
+                "close": 81.05000305175781,
+                "ma20": 77.86699981689453,
+                "ma50": 74.71979949951172
+            },
+            {
+                "date": "2026-09-01",
+                "close": 80.80999755859375,
+                "ma20": 78.228999710083,
+                "ma50": 74.87839950561523
+            },
+            {
+                "date": "2026-09-02",
+                "close": 82.20999908447266,
+                "ma20": 78.62949981689454,
+                "ma50": 75.0661994934082
+            }
+        ]
+    },
+    "agents": {
+        "fundamental_agent": "## Netflix (NFLX) Fundamental Analysis\n\n### 1. Valuation\n- P/E ratio: **25.85x**, indicating investors are paying a meaningful premium for earnings.\n- The valuation appears supportable given the company’s **13.4% revenue growth** and **28.2% profit margin**, though no peer or historical valuation data is provided.\n- At **$82.21**, the stock is approximately **35% below its 52-week high** of $126.71 and 26% above its low of $65.08, reflecting notable price volatility.\n\n### 2. Revenue Growth\n- Revenue growth of **13.4%** is healthy and indicates continued business expansion.\n- Growth is positive but not exceptionally high relative to the valuation multiple, making sustained execution important.\n\n### 3. Profitability\n- A **28.2% profit margin** is a major strength and suggests strong earnings conversion.\n- This level of profitability provides support for the company’s valuation and may offer resilience against operating pressures.\n\n### 4. Company Strengths\n- Strong combination of **double-digit revenue growth** and **high profitability**.\n- Large market capitalization of approximately **$342.3 billion**, indicating substantial scale.\n- Current valuation is supported by solid operating performance rather than growth alone.\n\n### 5. Fundamental Risks\n- The **25.85x P/E ratio** leaves the stock exposed to valuation compression if growth or profitability weakens.\n- The wide 52-week trading range signals meaningful market volatility.\n- With no additional information on debt, cash flow, or competitive position, the analysis cannot assess financial leverage or broader business risks.\n\nFundamental Score: 78/100  \nFundamental View: Bullish",
+        "technical_agent": "**1. Short-term price trend:** Bullish. Price at 82.21 is above both moving averages, indicating upward short-term bias.\n\n**2. MA20 and MA50:**  \n- Price is 4.6% above the MA20 at 78.63.  \n- Price is 9.5% above the MA50 at 75.07.  \n- The MA20 is above the MA50, supporting a positive trend structure.\n\n**3. RSI:** RSI at 62.2 indicates positive momentum without being in traditionally overbought territory.\n\n**4. MACD:** MACD at 1.92 is above its signal line at 1.68, producing a bullish signal.\n\n**5. Momentum:** Momentum is constructive, supported by the bullish moving-average alignment, positive MACD spread, and moderately strong RSI.\n\n**6. Technical risks:** The stock is extended above its moving averages, increasing pullback risk. A decline in RSI or a MACD crossover could weaken momentum. Volume cannot be evaluated for confirmation because no volume average is provided. The price remains well below the 52-week high of 126.71.\n\nTechnical Score: 78/100\nTechnical View: Bullish",
+        "news_agent": "## Netflix (NFLX) News Sentiment Report\n\n### 1. Overall news sentiment\n**Mixed to mildly positive**, but the headlines provide limited detail. One headline suggests Netflix may be below fair value and highlights a new partnership, while other coverage questions whether the stock is attractive and notes underperformance versus the S&P 500.\n\n### 2. Positive catalysts\n- **New partnership:** A Netflix partnership is presented as a potentially favorable development.\n- **Possible undervaluation:** The headline explicitly asks whether Netflix remains below fair value, implying potential upside.\n- **Long-term investor interest:** Coverage focused on where the stock could be in three years suggests continued attention to Netflix’s long-term prospects.\n- **Viewership visibility:** Netflix is mentioned in connection with a GTA VI gameplay preview topping its viewership charts, although this is not clearly a new Netflix-specific business catalyst.\n\n### 3. Negative catalysts\n- **Relative underperformance:** Netflix is described as underperforming the S&P 500.\n- **Uncertain investment case:** Headlines asking whether the news makes Netflix a buy suggest that the bullish case is not conclusive.\n- **Potentially limited catalyst strength:** The supplied headlines do not explain the financial impact of the partnership or viewership development.\n\n### 4. Important company developments\n- Netflix reportedly **unveiled a new partnership**.\n- Netflix’s viewership charts are referenced in coverage of a **GTA VI gameplay preview**, though the headline primarily concerns Take-Two Interactive and its stock.\n- Several outlets are evaluating Netflix’s **valuation and longer-term stock outlook**.\n\n### 5. Short-term investor implications\n- The partnership and possible below-fair-value assessment may support investor interest.\n- Underperformance versus the broader market could weigh on sentiment.\n- In the near term, investors may seek more details on the partnership and evidence that it can improve Netflix’s financial or operating outlook.\n\n### 6. News-related risks\n- The headlines do not provide enough information to assess the partnership’s scale, terms, or expected impact.\n- “Below fair value” is an assessment, not confirmation of upside.\n- The GTA VI viewership item may be **indirect or unrelated to Netflix’s core business**, as the headline focuses on Take-Two stock.\n- The available headlines are insufficient to determine whether the recent news represents a durable catalyst or merely media speculation.\n\nNews Score: 58/100  \nNews Sentiment: Neutral"
+    },
+    "decision_agent": "## 1. Evidence Comparison\n\n- **Fundamentals:** Clearly positive. Netflix combines 13.4% revenue growth with a 28.2% profit margin. However, the 25.85x P/E implies that continued execution is already reflected to some extent in the valuation.\n- **Technicals:** Positive. The stock is above its MA20 and MA50, the MA20 is above the MA50, MACD is bullish, and RSI at 62.2 indicates constructive momentum without being traditionally overbought.\n- **News:** Mixed to mildly positive. A new partnership and possible below-fair-value assessment are supportive, but the details and financial impact are unclear. Coverage also notes underperformance versus the S&P 500.\n\n## 2. Areas of Agreement\n\nThe analysts generally agree that:\n\n- Netflix has a favorable underlying operating profile.\n- Current price momentum is positive.\n- The stock has meaningful upside potential if growth and profitability persist.\n- The investment case is not risk-free because valuation and price volatility are elevated.\n- The available news does not provide a definitive near-term catalyst.\n\n## 3. Areas of Disagreement or Tension\n\n- **Strong fundamentals versus only neutral news:** Operating results appear solid, but current headlines do not strongly validate an immediate investment catalyst.\n- **Bullish technical setup versus pullback risk:** Momentum is favorable, yet the stock is 4.6% above its MA20 and 9.5% above its MA50, leaving room for consolidation or a decline.\n- **Potential undervaluation versus premium valuation:** News coverage suggests the stock may be below fair value, while the fundamental report highlights a 25.85x P/E and the risk of valuation compression.\n- **Positive long-term outlook versus incomplete information:** The reports lack sufficient data on debt, cash flow, competitive position, partnership economics, and volume confirmation.\n\n## 4. Bull Case\n\n- Revenue growth remains healthy at 13.4%.\n- The 28.2% profit margin provides substantial earnings support.\n- Positive moving-average alignment, bullish MACD, and a moderate RSI indicate continued upward momentum.\n- The stock trades well below its 52-week high, potentially offering recovery upside if sentiment improves.\n- The reported partnership could become a meaningful catalyst if it produces measurable operating or financial benefits.\n- The valuation may be reasonable if Netflix sustains its current growth and profitability.\n\n## 5. Bear Case\n\n- A 25.85x P/E leaves Netflix vulnerable to multiple contraction if growth slows or margins weaken.\n- The stock’s wide 52-week range indicates considerable volatility.\n- The price is extended above its moving averages, increasing the likelihood of a short-term pullback.\n- News sentiment is only neutral, and the partnership’s terms and impact are unknown.\n- Underperformance versus the broader market may reflect weaker investor sentiment.\n- The GTA VI-related headline may be indirect or unrelated to Netflix’s core business and should not be treated as a reliable catalyst.\n- Missing information on debt, cash flow, competitive conditions, and trading volume limits conviction.\n\n## 6. Most Important Risks\n\n1. **Valuation risk:** The stock may re-rate lower if operating performance fails to justify the P/E multiple.\n2. **Execution risk:** Sustaining both double-digit growth and high profitability is important to the bullish thesis.\n3. **Technical reversal risk:** The current momentum could weaken through a MACD crossover, declining RSI, or a move back toward the moving averages.\n4. **Catalyst uncertainty:** The reported partnership lacks enough detail to establish its likely financial significance.\n5. **Information risk:** The analysis does not include debt, cash flow, competitive-position, or volume data.\n\n## 7. Overall Assessment\n\nThe fundamental and technical evidence is bullish, while the news evidence is neutral and insufficiently detailed. This creates a favorable but incomplete setup. The strongest case is for continued upside if Netflix maintains its operating performance, but the valuation, technical extension, and limited catalyst visibility argue against an aggressive rating.\n\nA **HOLD** rating is appropriate pending clearer evidence that the partnership or other developments can support further earnings growth and justify the valuation.\n\nFinal Rating: HOLD\nConfidence: 70/100\nRisk Level: Medium",
+    "disclaimer": "This report is generated for educational and research purposes only and is not financial advice."
+}
